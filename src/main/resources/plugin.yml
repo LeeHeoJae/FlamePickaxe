@@ -1,0 +1,5 @@
+name: FlamePickaxe
+author: nexus
+main : nexus.FlamePickaxe
+version: 1.0.0
+api: [1.0.0]
